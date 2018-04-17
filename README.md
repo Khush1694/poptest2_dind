@@ -1,5 +1,5 @@
 # poptest2
-### Source of book tutorial
+### Source of tutorial book
 https://andrew-sledge.gitbooks.io/the-unofficial-pop-book/content/
 
 ## Have a docker mysql with 
