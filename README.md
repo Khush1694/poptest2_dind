@@ -2,7 +2,7 @@
 ### Source of tutorial book
 https://andrew-sledge.gitbooks.io/the-unofficial-pop-book/content/
 
-## Have a docker mysql with 
+## Have a dockerized mysql with 
 
 ```
 sudo docker run --name=mysql -e MYSQL_ROOT_PASSWORD=root -p=3306:3306 -d mysql:5.5
