@@ -1,0 +1,1 @@
+add_column("users", "location", "string", {"size": 100, "default": "New York, NY"})

@@ -1,0 +1,1 @@
+add_column("users", "image", "string", {"default": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1200px-MarvelLogo.svg.png"})
